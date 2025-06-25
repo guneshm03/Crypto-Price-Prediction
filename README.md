@@ -62,7 +62,7 @@ In future updates, I plan to:
 4. Run all cells in sequence
 
 or just click below:
-📓 [View the Full Notebook](Chatgpt_project_one_crypto.ipynb)
+📓 [View the Full Notebook](Project_crypto_prediction_lstm.ipynb)
 
 ---
 
