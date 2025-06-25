@@ -61,8 +61,6 @@ In future updates, I plan to:
 3. Upload the CSV file (`crypto_market_data_2018_2024.csv`)
 4. Run all cells in sequence
 
-or just click below:
-📓 [View the Full Notebook](Project_crypto_prediction_lstm.ipynb)
 
 ---
 
